@@ -14,19 +14,21 @@
 
 ### INTRODUCTION
 
-Extraterrestrial life has been long debated and examined through scientific research and eyewitness testimony. The 
+Extraterrestrial life has been long debated and examined through scientific research and eyewitness testimony. There have been over 
 
 ### PROJECT GOAL
 
-This featured visualization seeks to find any patterns within sightings of three different locations: the Greater Los Angeles Area,. There is a common notion that Area 51, which is located within Roswell, New Mexico, is the hub for . Due to its history of . This makes it theThrough focusing on several different locations, it
+This featured visualization seeks to find any patterns within sightings of three different locations: the Greater Los Angeles Area, Roswell, New Mexico, and New York City, New York. There is a common notion that Area 51, which is located within Roswell, New Mexico, is the hub for alien activity. . This makes it theThrough focusing on several different locations, there can be a wider look into the 
 
 ### TECHNICAL OVERVIEW
 
 - **Technologies:**
-    - Customized Monochrome Basemap from Map Box 
+    - Customized Monochrome Basemap from MapBox 
+    - 
 
 
-- **Dataset:**
+- **Data Resources:**
     - [UFO Sightings Dataset](https://data.world/timothyrenner/ufo-sightings) by Tim Renner
+    - [UFO Sightings in North America](https://abcnews.go.com/US/ufo-sightings-north-america-jumped-6000-2019/story?id=68145474) by Ivan Pereira
 
 
