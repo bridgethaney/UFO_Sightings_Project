@@ -37,6 +37,12 @@ This featured visualization seeks to find any patterns within sightings of three
 
 ### GUIDE
 
+- **New York City Map**
+
+- **Roswell Map**
+
+- **Los Angeles Map**
+
 - **Legend: Shapes of UFOs**
    - Each UFO shape is represented by a color symbol on the map
    - The types of shapes are: Love, Changing, Chevron, Circle, Cone, Cross, Cylinder, Diamond, Disk, Egg, Fireball, Flash, Formation, Light, Other, Oval, Rectangle, Sphere, Teardrop, and Triangle
