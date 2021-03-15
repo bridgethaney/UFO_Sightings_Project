@@ -22,8 +22,8 @@ This featured visualization seeks to find any patterns within sightings of three
 
 ### TECHNICAL OVERVIEW
 
-- **Libraries:**
-    - 
+- **Technologies:**
+    - Customized Monochrome Basemap from Map Box 
 
 
 - **Dataset:**
