@@ -37,11 +37,11 @@ This featured visualization seeks to find any patterns within sightings of three
 
 ### GUIDE
 
-- **New York City Map**
+#### **New York City Map**
 
-- **Roswell Map**
+#### **Roswell Map**
 
-- **Los Angeles Map**
+#### **Los Angeles Map**
 
 - **Legend: Shapes of UFOs**
    - Each UFO shape is represented by a color symbol on the map
