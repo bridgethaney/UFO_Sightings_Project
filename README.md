@@ -14,7 +14,7 @@
 
 ### INTRODUCTION
 
-Extraterrestrial life has been long debated and examined through scientific research and eyewitness testimony. There have been over 5,971 sightings of UFOs in 2019 in North America
+Extraterrestrial life has been long debated and examined through scientific research and eyewitness testimony. There have been over 5,971 sightings of UFOs in 2019 in North America . This particular project uses a UFO Sightings dataset acquired by Tim Renner
 
 ### PROJECT GOAL
 
