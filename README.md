@@ -27,7 +27,7 @@ This featured visualization seeks to find any patterns within sightings of three
 
 
 
--**Legend For UFO Sightings**
+- **Legend For UFO Sightings**
 
 
 - **Data Resources:**
