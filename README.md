@@ -14,7 +14,7 @@
 
 ### INTRODUCTION
 
-Extraterrestrial life has been long debated and examined through scientific research and eyewitness testimony. Its air of mystery and has drawn attention and intrigue from  According to the National UFO Reporting Center, there have been over 5,971 sightings of UFOs in 2019 in North America (). With the noticeable 
+Extraterrestrial life has been long debated and examined through scientific research, eyewitness testimony, and pop culture. Its air of mystery and has drawn attention and intrigue from  According to the National UFO Reporting Center, there have been over 5,971 sightings of UFOs in 2019 in North America (). With the noticeable 
 
 ### PROJECT GOAL
 
