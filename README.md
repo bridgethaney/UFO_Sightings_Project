@@ -41,4 +41,6 @@ This featured visualization seeks to find any patterns within sightings of three
     
 <img src="img/ufo_shapes_legend.png">
 
+## Acknowledgements
+
 
