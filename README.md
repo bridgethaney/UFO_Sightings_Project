@@ -39,6 +39,7 @@ This featured visualization seeks to find any patterns within sightings of three
 
 - **Legend: Shapes of UFOs**
    - Each UFO shape is represented by a color symbol on the map
+   - The types of shapes are: 
     
 <img src="img/ufo_shapes_legend.png">
 
