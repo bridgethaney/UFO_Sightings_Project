@@ -24,7 +24,10 @@ This featured visualization seeks to find any patterns within sightings of three
 
 - **Technologies:**
     - Customized Monochrome Basemap from MapBox 
-    - 
+
+
+
+-**Legend For UFO Sightings**
 
 
 - **Data Resources:**
