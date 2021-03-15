@@ -22,7 +22,7 @@ This featured visualization seeks to find any patterns within sightings of three
 
 ### TECHNICAL OVERVIEW
 
--**Dataset:**
- - [UFO Sightings Dataset](https://data.world/timothyrenner/ufo-sightings) by Tim Renner
+- **Dataset:**
+    - [UFO Sightings Dataset](https://data.world/timothyrenner/ufo-sightings) by Tim Renner
 
 
