@@ -1,1 +1,1 @@
-# UFO_Sightings_Project
+# UFO Sightings Visualization
