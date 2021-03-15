@@ -25,8 +25,8 @@ This featured visualization seeks to find any patterns within sightings of three
 
 - **UFO Sightings Map**
     - Layers
-        - Customized Monochrome Basemap made on MapBox
-        - Thematic layer as UFO Sightings Data with colors of symbols changing based on shape type of UFO
+        - Basemap: Customized Monochrome Basemap made on MapBox
+        - Thematic layer: UFO Sightings Data with colors of symbols changing based on shape type of UFO
     - Legend for the shape types of the UFO sightings
     
 <img src="img/ufo_shapes_legend.png">
