@@ -51,4 +51,6 @@ This featured visualization seeks to find any patterns within sightings of three
 
 ## Acknowledgements
 
+Some code snippets are taken from the UW GEOG 458 Lab 4 assignment by Bo Zhao.
+
 
