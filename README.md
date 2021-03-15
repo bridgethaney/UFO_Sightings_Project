@@ -25,8 +25,11 @@ This featured visualization seeks to find any patterns within sightings of three
 
 - **UFO Sightings Map**
     - Layers
-        - Customiz
-    - Customized monochrome basemap made on Map Box
+        - Customized Monochrome Basemap made on MapBox
+        - 
+    - Legend for the shape types of the UFO sightings
+    
+<img src="">
     - 
 
 
