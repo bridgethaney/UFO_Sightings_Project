@@ -18,6 +18,10 @@ Extraterrestrial life has been long debated and examined through scientific rese
 
 ### PROJECT GOAL
 
-This featured visualization seeks to find any patterns within sightings. As a 
+This featured visualization seeks to find any patterns within sightings. There is a common 
+
+### TECHNICAL OVERVIEW
+
+
 
 
