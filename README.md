@@ -18,7 +18,7 @@ Extraterrestrial life has been long debated and examined through scientific rese
 
 ### PROJECT GOAL
 
-This featured visualization seeks to find any patterns within sightings of three different locations: the Greater Los Angeles Area, Roswell, New Mexico, and New York City, New York. There is a common notion that Area 51, which is located within Roswell, New Mexico, is the hub for alien activity. . This makes it theThrough focusing on several different locations, there can be a wider look into the 
+This featured visualization seeks to find any patterns within sightings of three different locations: the Greater Los Angeles Area, Roswell, New Mexico, and New York City, New York. There is a common notion that Area 51, which is located within Roswell is the hub for alien activity and has  . This makes it the prime target for studying UFO data . Through focusing on several different locations, there can be a wider look into the 
 
 ### TECHNICAL OVERVIEW
 
