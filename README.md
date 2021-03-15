@@ -22,12 +22,12 @@ This featured visualization seeks to find any patterns within sightings of three
 
 ### TECHNICAL OVERVIEW
 
-- **Technologies:**
-    - Customized Monochrome Basemap from MapBox 
 
-
-
-- **Legend For UFO Sightings**
+- **UFO Sightings Map**
+    - Layers
+        - Customiz
+    - Customized monochrome basemap made on Map Box
+    - 
 
 
 - **Data Resources:**
