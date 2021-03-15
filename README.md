@@ -29,12 +29,7 @@ This featured visualization seeks to find any patterns within sightings of three
         - Thematic layer: UFO Sightings Data with colors of symbols changing based on shape type of UFO
     - Libraries
         - Leaflet 
-
-- **Legend for the shape types of the UFO sightings**
-    
-<img src="img/ufo_shapes_legend.png">
-
-
+        
 - **Data Resources:**
     - [UFO Sightings Dataset](https://data.world/timothyrenner/ufo-sightings) by Tim Renner
     - [UFO Sightings in North America](https://abcnews.go.com/US/ufo-sightings-north-america-jumped-6000-2019/story?id=68145474) by Ivan Pereira
