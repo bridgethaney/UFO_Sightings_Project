@@ -29,7 +29,7 @@ This featured visualization seeks to find any patterns within sightings of three
         - 
     - Legend for the shape types of the UFO sightings
     
-<img src="ufo_shapes_legend">
+<img src="img/ufo_shapes_legend.png">
     - 
 
 
