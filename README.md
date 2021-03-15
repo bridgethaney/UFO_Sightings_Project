@@ -1,6 +1,6 @@
 # UFO Sightings Visualization
 
-## THE
+### THE
 
 
-## INTRODUCTION
+### INTRODUCTION
