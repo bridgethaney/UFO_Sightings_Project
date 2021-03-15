@@ -35,9 +35,10 @@ This featured visualization seeks to find any patterns within sightings of three
     - [UFO Sightings in North America](https://abcnews.go.com/US/ufo-sightings-north-america-jumped-6000-2019/story?id=68145474) by Ivan Pereira
 
 
-### VISUAL GUIDE
+### GUIDE
 
 - **Legend: Shapes of UFOs**
+   - Each UFO shape is represented by a color symbol on the map
     
 <img src="img/ufo_shapes_legend.png">
 
