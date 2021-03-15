@@ -18,11 +18,11 @@ Extraterrestrial life has been long debated and examined through scientific rese
 
 ### PROJECT GOAL
 
-This featured visualization seeks to find any patterns within sightings. There is a common notion that Area 51, which is located within Roswell, New Mexico, is the hub for . Through focusing on several different locations, it
+This featured visualization seeks to find any patterns within sightings of three different locations: the Greater Los Angeles Area,. There is a common notion that Area 51, which is located within Roswell, New Mexico, is the hub for . Due to its history of . This makes it theThrough focusing on several different locations, it
 
 ### TECHNICAL OVERVIEW
 
-- **Dataset:**
+* **Dataset:**
  - [UFO Sightings Dataset](https://data.world/timothyrenner/ufo-sightings) by Tim Renner
 
 
