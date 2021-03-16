@@ -7,7 +7,7 @@
 ### THE PROJECT
 
 
-**Map:** [UFO Sightings Map]
+**Map:** [UFO Sightings Map](https://bridgethaney.github.io/UFO_Sightings_Project/)
 
 **Data:** [UFO Sightings Dataset](https://data.world/timothyrenner/ufo-sightings) by Tim Renner
 
