@@ -30,7 +30,7 @@ This featured visualization seeks to find any patterns within sightings of three
 
 * Area 51 in Nevada will also be added in.
 
-**Audience:** Ufologists are the prime target for this research. A Ufologist is an individual that specifically studies and identifies UFOs. Government entities can also use this map to figure out which locations to focus on when trying to . Finally, the general public interested in UFOs can use 
+**Audience:** Ufologists are the prime target for this research. A Ufologist is an individual that specifically studies and identifies UFOs. Government entities can also use this map to figure out which locations to focus on when trying to conduct research or create files. Finally, the general public interested in UFOs can use this data to see where UFOs are located and what kind of UFOs are sighted.
 
 ### ANALYSIS
 
