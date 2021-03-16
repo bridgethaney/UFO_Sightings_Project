@@ -37,8 +37,10 @@ In observing the data in all three locations, it seems that New York City contai
     - Libraries
         - Leaflet 
 
-- **Methodology and **
-    - QMetaTiles was used to create all three maps. After both the basemap created within Map Box and the , it was then formed into 256 pixel tiles and . There are six different selections that can be made to view each map. 
+- **Methodology and Steps**
+    - First, the basemap was created within Map Box. The base colors were darker grays, while location labels and streets were given light blues, greens, yellows, and oranges depending on zoom.
+    - The thematic layer was then acquired. The UFO dataset by Tim Renner, which is found on the website data.world, contains information on UFO sightings. On the map, the data points are represented by circles that are color coordinated to the shape of the UFO sighted.
+    - The basemap, thematic layer, and both the basemap and thematic layer together are converted to 256 pixel tiles through QMetaTiles. This allows for visually-appealing design and more quick display of information.
         
 - **Resources:**
     - [UFO Sightings Dataset](https://data.world/timothyrenner/ufo-sightings) by Tim Renner
