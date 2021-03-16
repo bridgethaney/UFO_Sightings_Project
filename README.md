@@ -18,7 +18,7 @@ Extraterrestrial life has been long debated and examined through scientific rese
 
 ### PROJECT GOAL
 
-This featured visualization seeks to find any patterns within sightings of three different locations: the Greater Los Angeles Area, Albuquerque, New Mexico, and the Greater New York City Area. There is a common conception that Area 51, which is located within Roswell, New Mexico, is the hub for alien activity due to secretive operations of the . This makes Albuquerque, the biggest city nearby to Roswell. Through focusing on several different locations, there can be a wider look into where UFO sightings are most prevalent.
+This featured visualization seeks to find any patterns within sightings of three different locations: the Greater Los Angeles Area, Albuquerque, New Mexico, and the Greater New York City Area. There is a common conception that Area 51, which is located within Roswell, New Mexico, is the hub for alien activity. This makes Albuquerque, the biggest city nearby to Roswell, the perfect . Through focusing on several different locations, there can be a wider look into where UFO sightings are most prevalent. It is interesting to see just how 
 
 ### ANALYSIS
 
