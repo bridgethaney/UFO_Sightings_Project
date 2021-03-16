@@ -1,6 +1,6 @@
 # UFO Sightings Visualization
 
-<img src="img/new_york_sightings.png">
+<img src="img/full_project.png">
 
 
 
