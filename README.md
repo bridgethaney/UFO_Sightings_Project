@@ -34,6 +34,9 @@ In observing the data in all three
         - Basemap w/ Thematic Layer: Combines both the basemap and UFO data for ease of access
     - Libraries
         - Leaflet 
+
+- **Methodology**
+    - QMetaTiles was used to create all three maps. Importing the custom night view basemap into QGIS,
         
 - **Data Resources:**
     - [UFO Sightings Dataset](https://data.world/timothyrenner/ufo-sightings) by Tim Renner
