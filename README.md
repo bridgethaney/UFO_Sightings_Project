@@ -16,7 +16,7 @@
 
 ### INTRODUCTION
 
-Extraterrestrial life has been long debated and examined through scientific research, eyewitness testimony, and pop culture. Unexplainable phenomenon of unidentified flying objects but also According to the National UFO Reporting Center, there have been over 5,971 sightings of UFOs in 2019 in North America (Pereira, 2020). With the noticeable prevalence of UFO sightings within North America and in particular, the United States, it is worth an investigation into just how common UFO sightings are and where the largest amount of sightings occur.
+Extraterrestrial life has been long debated and examined through scientific research, eyewitness testimony, and pop culture. Unexplainable phenomenon of unidentified flying objects is one of the prominent ways that belief in aliens has manifested. According to the National UFO Reporting Center, there have been over 5,971 sightings of UFOs in 2019 in North America (Pereira, 2020). With the noticeable prevalence of UFO sightings within North America and in particular, the United States, it is worth an investigation into just how common UFO sightings are and where the largest amount of sightings occur.
 
 ### PROJECT GOAL
 
