@@ -44,7 +44,11 @@ This featured visualization seeks to find any patterns within sightings of three
 
 #### **Albuquerque Map**
 
+<img src="img/albuquerque_sightings.png">
+
 #### **Los Angeles Map**
+
+<img src="img/los_angeles_sightings.png">
 
 #### **Legend: Shapes of UFOs**
    - Each UFO shape is represented by a color symbol on the map
