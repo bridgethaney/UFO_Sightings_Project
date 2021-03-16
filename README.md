@@ -1,6 +1,7 @@
 # UFO Sightings Visualization
 
 <img src="img/full_project.png">
+**FIGURE 1.** An overall look at the project and its visualizations.
 
 
 
