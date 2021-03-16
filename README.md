@@ -14,11 +14,15 @@
 
 ### INTRODUCTION
 
-Extraterrestrial life has been long debated and examined through scientific research, eyewitness testimony, and pop culture. Its air of mystery and has drawn attention and intrigue from  According to the National UFO Reporting Center, there have been over 5,971 sightings of UFOs in 2019 in North America (). With the noticeable 
+Extraterrestrial life has been long debated and examined through scientific research, eyewitness testimony, and pop culture. According to the National UFO Reporting Center, there have been over 5,971 sightings of UFOs in 2019 in North America (Pereira, 2020). With the noticeable 
 
 ### PROJECT GOAL
 
 This featured visualization seeks to find any patterns within sightings of three different locations: the Greater Los Angeles Area, Albuquerque, New Mexico, and the Greater New York City Area. There is a common conception that Area 51, which is located within Roswell, New Mexico, is the hub for alien activity due to secretive operations of the . This makes Albuquerque, the biggest city nearby to Roswell. Through focusing on several different locations, there can be a wider look into where UFO sightings are most prevalent.
+
+### ANALYSIS
+
+In observing the data in all three 
 
 ### TECHNICAL OVERVIEW
 
@@ -41,7 +45,6 @@ This featured visualization seeks to find any patterns within sightings of three
 #### **New York City Map**
 
 <img src="img/new_york_sightings.png">
-
 
 #### **Albuquerque Map**
 
