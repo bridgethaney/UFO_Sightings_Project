@@ -23,7 +23,7 @@ This featured visualization seeks to find any patterns within sightings of three
 
 ### ANALYSIS
 
-In observing the data in all three locations, it seems that New York City contains the most sightings. This could be due in part to the expansiveness of the city and the constant airport and innercity traffic that 
+In observing the data in all three locations, it seems that New York City contains the most sightings. This could be due in part to the expansiveness of the city and the situational factors 
 
 ### TECHNICAL OVERVIEW
 
@@ -36,12 +36,12 @@ In observing the data in all three locations, it seems that New York City contai
     - Libraries
         - Leaflet 
 
-- **Methodology**
-    - QMetaTiles was used to create all three maps. Importin
+- **Methodology and **
+    - QMetaTiles was used to create all three maps. After both the basemap created within Map Box and the , it was then formed into 256 pixel tiles and . There are six different selections that can be made to view each map. 
         
-- **Data Resources:**
+- **Resources:**
     - [UFO Sightings Dataset](https://data.world/timothyrenner/ufo-sightings) by Tim Renner
-    - [UFO Sightings in North America](https://abcnews.go.com/US/ufo-sightings-north-america-jumped-6000-2019/story?id=68145474) by Ivan Pereira
+    - [Three Maps on Leaflet](https://stackoverflow.com/questions/52597399/displaying-3-leaflet-maps-on-same-page) as explained by Marat Badykov
 
 
 ### GUIDE
@@ -70,6 +70,6 @@ Some code snippets are taken from the UW GEOG 458 Lab 4 assignment by Bo Zhao. I
 
 ## References
 
-
+   - [UFO Sightings in North America](https://abcnews.go.com/US/ufo-sightings-north-america-jumped-6000-2019/story?id=68145474) by Ivan Pereira
 
 
