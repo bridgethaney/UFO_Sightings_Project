@@ -53,13 +53,19 @@ In observing the data in all three locations, it seems that New York City contai
 
 <img src="img/new_york_sightings.png">
 
+**FIGURE 2: Static image of the interactive leaflet map featuring New York City UFO sightings**
+
 #### **Albuquerque Map**
 
 <img src="img/albuquerque_sightings.png">
 
+**FIGURE 3: Static image of the interactive leaflet map featuring Albuquerque UFO sightings**
+
 #### **Los Angeles Map**
 
 <img src="img/los_angeles_sightings.png">
+
+**FIGURE 4: Static image of the interactive leaflet map featuring Los Angeles UFO sightings**
 
 #### **Legend: Shapes of UFOs**
    - Each UFO shape is represented by a color symbol on the map
