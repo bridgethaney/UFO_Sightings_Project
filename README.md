@@ -7,7 +7,7 @@
 ### THE PROJECT
 
 
-**Map:** [UFO Sightings Map]
+**Map:** [UFO Sightings Map](https://bridgethaney.github.io/UFO_Sightings_Project/)
 
 **Data:** [UFO Sightings Dataset](https://data.world/timothyrenner/ufo-sightings) by Tim Renner
 
@@ -18,7 +18,7 @@ Extraterrestrial life has been long debated and examined through scientific rese
 
 ### PROJECT GOAL
 
-This featured visualization seeks to find any patterns within sightings of three different locations: the Greater Los Angeles Area, Roswell, New Mexico, and New York City. There is a common conception that Area 51, which is located within Roswell, is the hub for alien activity due to . This makes it the prime target for studying UFO data and . Through focusing on several different locations, there can be a wider look into where UFO sightings are most prevalent.
+This featured visualization seeks to find any patterns within sightings of three different locations: the Greater Los Angeles Area, Albuquerqu, New Mexico, and New York City. There is a common conception that Area 51, which is located within Roswell, New Mexico, is the hub for alien activity due to secret operations. This makes Albuquerque, the biggest city nearby to Roswell. Through focusing on several different locations, there can be a wider look into where UFO sightings are most prevalent.
 
 ### TECHNICAL OVERVIEW
 
@@ -51,8 +51,10 @@ This featured visualization seeks to find any patterns within sightings of three
 
 ## Acknowledgements
 
-Some code snippets are taken from the UW GEOG 458 Lab 4 assignment by Bo Zhao.
+Some code snippets are taken from the UW GEOG 458 Lab 4 assignment by Bo Zhao. I am also using some formatting code from Marat Badykov on Stack Overflow to create the three maps.
 
 ## References
+
+
 
 
