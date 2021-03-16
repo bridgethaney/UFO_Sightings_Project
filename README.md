@@ -18,9 +18,13 @@
 
 Extraterrestrial life has been long debated and examined through scientific research, eyewitness testimony, and pop culture. One of the most prominent ways this exploration of possible alien contact has occured is through sightings of unexplainable phenomenon of unidentified flying objects. According to the National UFO Reporting Center, there have been over 5,971 sightings of UFOs in 2019 in North America (Pereira, 2020). With the noticeable prevalence of UFO sightings within North America and in particular, the United States, it is worth an investigation into the frequency of UFO sightings and where the largest amount of sightings occur.
 
+Surprisingly, there is also a deeper rooted effect to seeing UFOs. It is shown that the "68% today who believe the government is withholding information about UFOs is comparable to the 71% found in 1996" (). This means that due to possible UFO sightings, individuals may believe that the government is not being transparent or hiding information about UFOs or possible alien life, which signifies that there is some sort of distrust in the government surrounding this topic.
+
 ### PROJECT GOAL
 
-This featured visualization seeks to find any patterns within sightings of three different locations: the Greater Los Angeles Area, Albuquerque, New Mexico, and the Greater New York City Area. There is a common conception that Area 51, which is located within Roswell, New Mexico, is the hub for alien activity. This makes Albuquerque, the biggest city closest to Roswell, the perfect location to test whether surrounding areas to Roswell have the highest amount of sightings, or if other locations, like Los Angeles. Through focusing on several different locations, there can ultimately be a wider look into where UFO sightings are most prevalent. It is interesting to see just how many UFO sightings are reported, the description of each UFO sighting, and the kinds of shapes that UFOs can take form through.
+This featured visualization seeks to find any patterns within sightings of three different locations: the Greater Los Angeles Area, Albuquerque, New Mexico, and the Greater New York City Area. There is a common conception that the crash site of a possible UFO located within Roswell, New Mexico, is the hub for alien activity. This makes Albuquerque, the biggest city closest to Roswell, the perfect location to test whether surrounding areas to Roswell have the highest amount of sightings, or if other locations, like Los Angeles. Through focusing on several different locations, there can ultimately be a wider look into where UFO sightings are most prevalent. It is interesting to see just how many UFO sightings are reported, the description of each UFO sighting, and the kinds of shapes that UFOs can take form through.
+
+* Area 51 in Nevada will also be added in.
 
 ### ANALYSIS
 
@@ -81,6 +85,8 @@ Some code snippets are taken from the UW GEOG 458 Lab 4 assignment by Bo Zhao. I
 
 ## References
 
-   - [UFO Sightings in North America](https://abcnews.go.com/US/ufo-sightings-north-america-jumped-6000-2019/story?id=68145474) by Ivan Pereira
+Saad, L. (2021, January 14). Americans Skeptical of UFOs, but Say Government Knows More. Retrieved from https://news.gallup.com/poll/266441/americans-skeptical-ufos-say-government-knows.aspx
+
+Pereira, I. (2020, January 8). UFO sightings in North America jumped to nearly 6,000 in 2019. Retrieved March 16, 2021, from https://abcnews.go.com/US/ufo-sightings-north-america-jumped-6000-2019/story?id=68145474
 
 
