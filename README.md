@@ -16,12 +16,11 @@
 
 ### INTRODUCTION
 
-Extraterrestrial life has been long debated and examined through scientific research, eyewitness testimony, and pop culture. One of the most prominent ways this exploration of possible alien contact has occured is through sightings of unexplainable phenomenon detailed as unidentified flying objects. According to the National UFO Reporting Center, there have been over 5,971 sightings of UFOs in 2019 in North America (Pereira, 2020). With the noticeable prevalence of UFO sightings within North America and in particular, the United States, it is worth an investigation into the frequency of UFO sightings and where the largest amount of sightings occur.
+Extraterrestrial life has been long debated and examined through scientific research, eyewitness testimony, and pop culture. One of the most prominent ways this exploration of possible alien contact has occured is through sightings of unexplainable phenomenon detailed as unidentified flying objects. According to the National UFO Reporting Center, there have been over 5,971 sightings of UFOs in 2019 in North America (Pereira, 2020). With the noticeable prevalence of UFO sightings within North America and in particular, the United States, it is worth an investigating the frequency of UFO sightings and where the largest amount of sightings occur.
 
-The previous acting Director of National Intelligence, Richard Grenell, has stated that there have been instances, in fact, of UFOs. 
+To designate the prominance and necessary research of UFOs, it is worth noting that government entities, like the United States Government, have kept classified records on supposed UFO sightings and alien life. The previous acting Director of National Intelligence, Richard Grenell, has stated that there have been instances, in fact, of UFOs, saying that "definitely UFOs exist. But remember the definition, it is an unidentified flying object" (Grenell, 2021). Whether the UFOs housed alien life, it is unknown. However, government records have recorded and defined the appearance of UFOs and treats these sightings .
 
-Surprisingly, along with this data advancing scientific research, there is also a deeper rooted effect to seeing UFOs. It is shown that the "68% today who believe the government is withholding information about UFOs is comparable to the 71% found in 1996" (Saad, 2021). This means that due to possible UFO sightings, individuals may believe that the government is not being transparent or hiding information about UFOs or possible alien life, which signifies that there is some sort of distrust in the government surrounding this topic.
-
+This involvement of the government has led to a deeper rooted effect to seeing UFOs. It is shown that the "68% today who believe the government is withholding information about UFOs is comparable to the 71% found in 1996" (Saad, 2021). This means that due to possible UFO sightings, individuals may believe that the government is not being transparent or hiding information about UFOs or possible alien life, which signifies that there is some sort of distrust in the government surrounding this topic. In 1980, 
 
 ### PROJECT GOAL
 
