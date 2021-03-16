@@ -27,6 +27,7 @@ This featured visualization seeks to find any patterns within sightings of three
     - Layers
         - Basemap: Customized Monochrome Basemap made on MapBox
         - Thematic layer: UFO Sightings Data with colors of symbols changing based on shape type of UFO
+        - Basemap w/ Thematic Layer: Combines both the basemap and UFO data for ease of access
     - Libraries
         - Leaflet 
         
