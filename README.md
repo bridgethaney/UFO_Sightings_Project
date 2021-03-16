@@ -15,7 +15,7 @@
 
 ### INTRODUCTION
 
-Extraterrestrial life has been long debated and examined through scientific research, eyewitness testimony, and pop culture. According to the National UFO Reporting Center, there have been over 5,971 sightings of UFOs in 2019 in North America (Pereira, 2020). With the noticeable 
+Extraterrestrial life has been long debated and examined through scientific research, eyewitness testimony, and pop culture. Not only have the been , but also According to the National UFO Reporting Center, there have been over 5,971 sightings of UFOs in 2019 in North America (Pereira, 2020). With the noticeable 
 
 ### PROJECT GOAL
 
@@ -37,7 +37,7 @@ In observing the data in all three locations, it seems that New York City contai
         - Leaflet 
 
 - **Methodology**
-    - QMetaTiles was used to create all three maps. Importing the custom night view basemap into QGIS, the basemap, 
+    - QMetaTiles was used to create all three maps. Importin
         
 - **Data Resources:**
     - [UFO Sightings Dataset](https://data.world/timothyrenner/ufo-sightings) by Tim Renner
