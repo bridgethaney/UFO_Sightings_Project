@@ -16,8 +16,14 @@ h2 {
   text-transform:uppercase;
   font-family:arial;
   margin-left: 10px;
-  margin-top:30px;
+  margin-top:40px;
   text-align:center;
+}
+
+.author {
+  text-align:left;
+  font-size:25px;
+  margin-top: -25px;
 }
 
 .map {
