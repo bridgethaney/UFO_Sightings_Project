@@ -69,6 +69,7 @@ In observing the data in all three locations, it seems that New York City contai
 
 #### **Legend: Shapes of UFOs**
    - Each UFO shape is represented by a color symbol on the map
+   - There are 21 shapes featured in the data
    - The types of shapes are: Love, Changing, Chevron, Circle, Cone, Cross, Cylinder, Diamond, Disk, Egg, Fireball, Flash, Formation, Light, Other, Oval, Rectangle, Sphere, Teardrop, and Triangle
     
 <img src="img/ufo_shapes_legend.png">
