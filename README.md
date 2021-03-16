@@ -39,7 +39,10 @@ This featured visualization seeks to find any patterns within sightings of three
 
 #### **New York City Map**
 
-#### **Roswell Map**
+<img src="img/new_york_sightings.png">
+
+
+#### **Albuquerque Map**
 
 #### **Los Angeles Map**
 
