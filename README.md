@@ -24,7 +24,7 @@ This featured visualization seeks to find any patterns within sightings of three
 
 ### ANALYSIS
 
-In observing the data in all three locations, it seems that New York City contains the most sightings. This could be due in part to the expansiveness of the city and the situational factors of heavy airport traffic, or these sightings may be real.
+In observing the data in all three locations, it seems that New York City contains the most sightings. This could be due in part to the expansiveness of the city and situational factors, like heavy airport traffic. It seems in bigger cities, there are in general, more sightings. 
 
 ### TECHNICAL OVERVIEW
 
