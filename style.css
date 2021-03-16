@@ -21,7 +21,7 @@ h2 {
 }
 
 .map {
-    height: 500px;
+    height: 800px;
     width: 100%;
     padding:3px;
 }
@@ -37,5 +37,10 @@ h2 {
 }
 
 #nm {
+  margin-top:40px;
+}
+
+
+#la {
   margin-top:40px;
 }
