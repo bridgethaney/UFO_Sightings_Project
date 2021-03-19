@@ -12,12 +12,11 @@ h1 {
 
 h2 {
   color:#fff;
-  font-size:20px;
+  font-size:25px;
   text-transform:uppercase;
   font-family:arial;
   margin-left: 10px;
-  margin-top:20px;
-  text-align:center;
+  margin-top:-25px;
 }
 
 .block {
@@ -27,12 +26,18 @@ h2 {
   float:left;
 }
 
+.map-name {
+  text-align:center;
+  font-size:20px;
+  margin-top:20px;
+}
+
 
 .data {
-  text-align:left;
+  text-align:center;
   font-size:25px;
   margin-top: 20px;
-  margin-left:160px;
+  margin-left:-10px;
 }
 
 #nav-links ul {
@@ -56,7 +61,7 @@ margin-top:-58px;
 }
 
 .map {
-    height: 720px;
+    height: 721px;
     width: 100%;
     padding:3px;
 }
@@ -121,12 +126,13 @@ margin-top:-58px;
 
 .info {
   background-color:#000;
-  height:797px;
+  height:798px;
   width:480px;
 }
 
 .UFO-pic {
 margin-left:30px;
+margin-top:50px;
 }
 
 .intro {
@@ -134,8 +140,8 @@ margin-left:30px;
   font-family:arial;
   font-size:14px;
   margin-left:500px;
-  width:900px;
-  margin-top:-750px;
+  width:905px;
+  margin-top:-775px;
 }
 
 a:hover {
@@ -143,7 +149,10 @@ a:hover {
 }
 
 #dataset {
-  margin-left:99px;
+  text-align:center;
+  margin-left:-30px;
+  margin-top:10px;
+  font-size:12px;
 }
 
 .blurb {
