@@ -14,281 +14,40 @@
    <body>
       <div class="bar">
          <h1>UFO Sightings in the United States</h1>
-         <h2 class="author">By Bridget Haney</h2>
+         <div id="nav-links">
+           <ul>
+             <li class="link"><a class="nav-link" href="index.html">About</a></li>
+             <li class="link"><a class="nav-link" href="ny_map.html">New York City Sightings</a></li>
+             <li class="link"><a class="nav-link" href="la_map.html">Los Angeles Sightings</a></li>
+             <li class="link"><a class="nav-link" href="la_map.html">Las Vegas Sightings</a></li>
+                  <li class="link"><a class="nav-link" href="la_map.html">Area 51 Sightings</a></li>
+          </ul>
+        </div>
       </div>
-      <h2>New York City UFO Sighting Map</h2>
-      <div class="col-md-6 col-sm-12" id="ny">
-         <div class="map-wrapper">
-            <div class="map" id="new_york_canvas"></div>
-         </div>
+      <div class="block">
+          <img class="UFO-pic" src="https://nypost.com/wp-content/uploads/sites/2/2018/10/ufo-sightings-roundup-1.jpg?quality=90&strip=all&w=1236&h=820&crop=1" style="width:400px;height:250px;">
+          <p class="intro"><b>INTRODUCTION</b></br>
+
+</br></br>Extraterrestrial life has been long debated and examined through scientific research, eyewitness testimony, and pop culture. One of the most prominent ways this exploration of possible alien contact has occured is through sightings of unexplainable phenomenon detailed as unidentified flying objects. According to the National UFO Reporting Center, there have been over 5,971 sightings of UFOs in 2019 in North America (Pereira, 2020). With the noticeable prevalence of UFO sightings within North America and in particular, the United States, it is worth an investigating the frequency of UFO sightings and where the largest amount of sightings occur.
+
+</br></br>To designate the prominance and necessary research of UFOs, it is worth noting that government entities, like the United States Government, have kept classified records on supposed UFO sightings and alien life. The previous acting Director of National Intelligence, Richard Grenell, has stated that there have been instances, in fact, of UFOs, saying "definitely UFOs exist. But remember the definition, it is an unidentified flying object" (Grenell, 2021). Whether the UFOs housed alien life, it is unknown. However, government records have recorded and defined the appearance of UFOs and treats these sightings as important.
+
+</br></br>This involvement of the government has led to deeper rooted effects that impact the mindset of the public surrounding UFO sightings. It is shown that the "68% today who believe the government is withholding information about UFOs is comparable to the 71% found in 1996" (Saad, 2021). This means that due to possible UFO sightings, individuals may believe that the government is not being transparent or hiding information about UFOs or possible alien life, signifying a growing distrust with the government. In 1980 especially, the National Security Agency was involved in a civil action case entitled "Citizens Against Unidentified Flying Objects Secrecy v. National Security Agency," in which the public demanded that the government be more transparent and upfront about UFOs.
+
+</br></br>Overall, the three maps presented within this project are meant to start a conversation around UFOs and the grander idea of extraterrestrial life. In capturing data around the United States and specifically honing in on Los Angeles, Albuquerque, and New York City, there can be ultimately be answers to the aforementioned questions involving prevalence and what locations have the most activity.
+
+### PROJECT GOAL
+
+This featured visualization seeks to find any patterns within sightings of three different locations: the Greater Los Angeles Area, Albuquerque, New Mexico, and the Greater New York City Area. There is a common conception that the famous crash site of a supposed UFO located within Roswell, New Mexico, is the hub for alien activity. This makes Albuquerque, the biggest city closest to Roswell, the perfect location to test whether areas surrounding Roswell have the highest amount of sightings, or if other locations, like Los Angeles do. Through focusing on several different locations, there can ultimately be a wider look into where UFO sightings are most prevalent. It is interesting to see just how many UFO sightings are reported, the description of each UFO sighting, and the kinds of shapes that UFOs can take form through.
+
+* Area 51 in Nevada will also be added in.
+
+**Audience:** Ufologists are the prime target for this research. A Ufologist is an individual that specifically studies and identifies UFOs. Government entities can also use this map to figure out which locations to focus on when trying to conduct research or create files. Finally, the general public interested in UFOs can use this data to see where UFOs are located and what kind of UFOs are sighted.
+
+### ANALYSIS
+
+In observing the data in all three locations, it seems that New York City contains the most sightings. This could be due in part to the expansiveness of the city and situational factors, like heavy airport traffic. It seems in bigger cities, there are in general, more sightings.
+</p>
       </div>
-      <h2>Albuquerque UFO Sighting Map</h2>
-      <div class="col-md-6 col-sm-12" id="nm">
-         <div class="map-wrapper">
-            <div class="map" id="new_mexico_canvas"></div>
-         </div>
-      </div>
-      <h2>Los Angeles UFO Sighting Map</h2>
-      <div class="col-md-6 col-sm-12" id="la">
-         <div class="map-wrapper">
-            <div class="map" id="los_angeles_canvas"></div>
-         </div>
-      </div>
-      <script type="text/javascript">
-         // MAPS
-         var map_one = L.map('new_york_canvas', {
-             maxZoom: 13,
-             minZoom: 11.5
-         }).setView([40.701,-73.790], 12);
-
-         var map_two = L.map('new_mexico_canvas', {
-             maxZoom: 13,
-             minZoom: 11.3
-         }).setView([35.0844, -106.4340], 11.3);
-
-         var map_three = L.map('los_angeles_canvas', {
-             maxZoom: 13,
-             minZoom: 12
-         }).setView([33.88900, -117.90000], 12);
-
-
-
-         var grayscale = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}@2x.png').addTo(map_one);
-         var streets = L.tileLayer('http://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}@2x.png');
-         var satellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}@2x');
-
-
-         var new_york_map = L.tileLayer('tiles_assets/New York/{z}/{x}/{y}.png', {
-             attribution: 'Generated by Bridget Haney | Basemap created on Map Box | UFO data &copy Tim Renner',
-             detectRetina: true
-         });
-
-         var new_york_basemap = L.tileLayer('tiles_assets/New York Basemap/{z}/{x}/{y}.png', {
-             attribution: 'Generated by Bridget Haney | Basemap created on Map Box ',
-             detectRetina: true
-         });
-
-         var new_york_data = L.tileLayer('tiles_assets/New York Data/{z}/{x}/{y}.png', {
-             attribution: 'Generated by Bridget Haney | UFO data &copy Tim Renner',
-             detectRetina: true
-         });
-
-         var ny_baseLayers = {
-               'Grayscale': grayscale,
-               'Streets': streets,
-               'Satellite': satellite
-           };
-
-           var ny_overlays = {
-               "New York Basemap": new_york_basemap,
-               "New York UFO Sightings Data": new_york_data,
-               "New York UFO Sightings W/ Basemap": new_york_map
-           }
-
-
-         L.control.layers(ny_baseLayers, ny_overlays, {
-           collapsed: false,
-           position: 'topright'
-         }).addTo(map_one);
-
-         // ALBUQUERQUE Map
-
-         var grayscale = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}@2x.png').addTo(map_two);
-         var streets = L.tileLayer('http://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}@2x.png');
-         var satellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}@2x');
-
-
-         var new_mexico_map = L.tileLayer('tiles_assets/New Mexico/{z}/{x}/{y}.png', {
-             attribution: 'Generated by Bridget Haney | Basemap created on Map Box | UFO data &copy Tim Renner',
-             detectRetina: true
-         });
-
-         var new_mexico_data = L.tileLayer('tiles_assets/New Mexico Data/{z}/{x}/{y}.png', {
-             attribution: 'Generated by Bridget Haney | UFO data &copy Tim Renner',
-             detectRetina: true
-         });
-
-         var new_mexico_basemap = L.tileLayer('tiles_assets/New Mexico Basemap/{z}/{x}/{y}.png', {
-             attribution: 'Generated by Bridget Haney | Basemap created on Map Box',
-             detectRetina: true
-         });
-
-
-
-         var nm_baseLayers = {
-               'Grayscale': grayscale,
-               'Streets': streets,
-               'Satellite': satellite
-         };
-
-          var nm_overlays = {
-               "New Mexico Basemap": new_mexico_basemap,
-               "New Mexico UFO Sightings Data": new_mexico_data,
-               "New Mexico UFO Sightings W/ Basemap": new_mexico_map
-             }
-
-             L.control.layers(nm_baseLayers, nm_overlays, {
-               collapsed: false,
-               position: 'topright'
-             }).addTo(map_two);
-
-             // LOS ANGELES MAP
-
-             var grayscale = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}@2x.png').addTo(map_three);
-             var streets = L.tileLayer('http://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}@2x.png');
-             var satellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}@2x');
-
-
-             var los_angeles_map = L.tileLayer('tiles_assets/Los Angeles/{z}/{x}/{y}.png', {
-                 attribution: 'Generated by Bridget Haney | Basemap created on Map Box | UFO data &copy Tim Renner',
-                 detectRetina: true
-             });
-
-             var los_angeles_data = L.tileLayer('tiles_assets/Los Angeles Data/{z}/{x}/{y}.png', {
-                 attribution: 'Generated by Bridget Haney | UFO data &copy Tim Renner',
-                 detectRetina: true
-             });
-
-             var los_angeles_basemap = L.tileLayer('tiles_assets/Los Angeles Basemap/{z}/{x}/{y}.png', {
-                 attribution: 'Generated by Bridget Haney | Basemap created on Map Box',
-                 detectRetina: true
-             });
-
-
-             var la_baseLayers = {
-                   'Grayscale': grayscale,
-                   'Streets': streets,
-                   'Satellite': satellite
-             };
-
-              var la_overlays = {
-                  "Los Angeles Basemap": los_angeles_basemap,
-                  "Los Angeles UFO Sightings Data": los_angeles_data,
-                  "Los Angeles UFO Sightings W/ Basemap": los_angeles_map
-                 }
-
-                 L.control.layers(la_baseLayers, la_overlays, {
-                   collapsed: false,
-                   position: 'topright'
-                 }).addTo(map_three);
-
-
-                 // LEGENDS
-
-                 var legend_one = L.control({ position: "topright" });
-
-                 legend_one.onAdd = function(map) {
-                   var div = L.DomUtil.create("div", "legend");
-                   div.innerHTML += "<h4>Shapes of UFOs Sighted</h4>";
-                   div.innerHTML += '<i style="background: #d0a27c"></i><span>Love</span><br>';
-                   div.innerHTML += '<i style="background: #5e10f0"></i><span>Changing</span><br>';
-                   div.innerHTML += '<i style="background: #4accd2"></i><span>Chevron</span><br>';
-                   div.innerHTML += '<i style="background: #e05ccf"></i><span>Cigar</span><br>';
-                   div.innerHTML += '<i style="background: #10d278"></i><span>Circle</span><br>';
-                   div.innerHTML += '<i style="background: #d3757c"></i><span>Cone</span><br>';
-                   div.innerHTML += '<i style="background: #948be5"></i><span>Cross</span><br>';
-                   div.innerHTML += '<i style="background: #963666"></i><span>Cylinder</span><br>';
-                   div.innerHTML += '<i style="background: #ebe52b"></i><span>Diamond</span><br>';
-                   div.innerHTML += '<i style="background: #bd0fd4"></i><span>Disk</span><br>';
-                   div.innerHTML += '<i style="background: #9dee4b"></i><span>Egg</span><br>';
-                   div.innerHTML += '<i style="background: #e28025"></i><span>Fireball</span><br>';
-                   div.innerHTML += '<i style="background: #982bdb"></i><span>Flash</span><br>';
-                   div.innerHTML += '<i style="background: #2569c8"></i><span>Formation</span><br>';
-                   div.innerHTML += '<i style="background: #d6e92f"></i><span>Light</span><br>';
-                   div.innerHTML += '<i style="background: #2fdae9"></i><span>Other</span><br>';
-                   div.innerHTML += '<i style="background: #ff8f0b"></i><span>Oval</span><br>';
-                   div.innerHTML += '<i style="background: #2748ed"></i><span>Rectangle</span><br>';
-                   div.innerHTML += '<i style="background: #0ccca6"></i><span>Sphere</span><br>';
-                   div.innerHTML += '<i style="background: #e56e98"></i><span>Teardrop</span><br>';
-                   div.innerHTML += '<i style="background: #cf2900"></i><span>Triangle</span><br>';
-
-                   return div;
-                 };
-
-                 var legend_two = L.control({ position: "topright" });
-
-                 legend_two.onAdd = function(map) {
-                   var div = L.DomUtil.create("div", "legend");
-                   div.innerHTML += "<h4>Shapes of UFOs Sighted</h4>";
-                   div.innerHTML += '<i style="background: #d0a27c"></i><span>Love</span><br>';
-                   div.innerHTML += '<i style="background: #5e10f0"></i><span>Changing</span><br>';
-                   div.innerHTML += '<i style="background: #4accd2"></i><span>Chevron</span><br>';
-                   div.innerHTML += '<i style="background: #e05ccf"></i><span>Cigar</span><br>';
-                   div.innerHTML += '<i style="background: #10d278"></i><span>Circle</span><br>';
-                   div.innerHTML += '<i style="background: #d3757c"></i><span>Cone</span><br>';
-                   div.innerHTML += '<i style="background: #948be5"></i><span>Cross</span><br>';
-                   div.innerHTML += '<i style="background: #963666"></i><span>Cylinder</span><br>';
-                   div.innerHTML += '<i style="background: #ebe52b"></i><span>Diamond</span><br>';
-                   div.innerHTML += '<i style="background: #bd0fd4"></i><span>Disk</span><br>';
-                   div.innerHTML += '<i style="background: #9dee4b"></i><span>Egg</span><br>';
-                   div.innerHTML += '<i style="background: #e28025"></i><span>Fireball</span><br>';
-                   div.innerHTML += '<i style="background: #982bdb"></i><span>Flash</span><br>';
-                   div.innerHTML += '<i style="background: #2569c8"></i><span>Formation</span><br>';
-                   div.innerHTML += '<i style="background: #d6e92f"></i><span>Light</span><br>';
-                   div.innerHTML += '<i style="background: #2fdae9"></i><span>Other</span><br>';
-                   div.innerHTML += '<i style="background: #ff8f0b"></i><span>Oval</span><br>';
-                   div.innerHTML += '<i style="background: #2748ed"></i><span>Rectangle</span><br>';
-                   div.innerHTML += '<i style="background: #0ccca6"></i><span>Sphere</span><br>';
-                   div.innerHTML += '<i style="background: #e56e98"></i><span>Teardrop</span><br>';
-                   div.innerHTML += '<i style="background: #cf2900"></i><span>Triangle</span><br>';
-
-                   return div;
-                 };
-
-                 var legend_three = L.control({ position: "topright" });
-
-                 legend_three.onAdd = function(map) {
-                   var div = L.DomUtil.create("div", "legend");
-                   div.innerHTML += "<h4>Shapes of UFOs Sighted</h4>";
-                   div.innerHTML += '<i style="background: #d0a27c"></i><span>Love</span><br>';
-                   div.innerHTML += '<i style="background: #5e10f0"></i><span>Changing</span><br>';
-                   div.innerHTML += '<i style="background: #4accd2"></i><span>Chevron</span><br>';
-                   div.innerHTML += '<i style="background: #e05ccf"></i><span>Cigar</span><br>';
-                   div.innerHTML += '<i style="background: #10d278"></i><span>Circle</span><br>';
-                   div.innerHTML += '<i style="background: #d3757c"></i><span>Cone</span><br>';
-                   div.innerHTML += '<i style="background: #948be5"></i><span>Cross</span><br>';
-                   div.innerHTML += '<i style="background: #963666"></i><span>Cylinder</span><br>';
-                   div.innerHTML += '<i style="background: #ebe52b"></i><span>Diamond</span><br>';
-                   div.innerHTML += '<i style="background: #bd0fd4"></i><span>Disk</span><br>';
-                   div.innerHTML += '<i style="background: #9dee4b"></i><span>Egg</span><br>';
-                   div.innerHTML += '<i style="background: #e28025"></i><span>Fireball</span><br>';
-                   div.innerHTML += '<i style="background: #982bdb"></i><span>Flash</span><br>';
-                   div.innerHTML += '<i style="background: #2569c8"></i><span>Formation</span><br>';
-                   div.innerHTML += '<i style="background: #d6e92f"></i><span>Light</span><br>';
-                   div.innerHTML += '<i style="background: #2fdae9"></i><span>Other</span><br>';
-                   div.innerHTML += '<i style="background: #ff8f0b"></i><span>Oval</span><br>';
-                   div.innerHTML += '<i style="background: #2748ed"></i><span>Rectangle</span><br>';
-                   div.innerHTML += '<i style="background: #0ccca6"></i><span>Sphere</span><br>';
-                   div.innerHTML += '<i style="background: #e56e98"></i><span>Teardrop</span><br>';
-                   div.innerHTML += '<i style="background: #cf2900"></i><span>Triangle</span><br>';
-
-                   return div;
-                 };
-
-
-                 legend_one.addTo(map_one);
-                 legend_two.addTo(map_two);
-                 legend_three.addTo(map_three);
-
-
-
-
-           /* Code by cmulders on Github. It removes white grid line bug
-            experienced within certain browsers. Bug was visible on the Neon Theme
-            Map  */
-           (function(){
-           var originalInitTile = L.GridLayer.prototype._initTile
-           L.GridLayer.include({
-               _initTile: function (tile) {
-                   originalInitTile.call(this, tile);
-
-                   var tileSize = this.getTileSize();
-
-                   tile.style.width = tileSize.x + 1 + 'px';
-                   tile.style.height = tileSize.y + 1 + 'px';
-               }
-           });
-          })()
-      </script>
    </body>
 </html>

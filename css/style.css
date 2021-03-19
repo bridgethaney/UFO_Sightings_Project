@@ -4,7 +4,7 @@ body {
 
 h1 {
   color:#85C1E9;
-  font-size:40px;
+  font-size:35px;
   text-transform:uppercase;
   font-family:arial;
   margin-left: 10px;
@@ -20,14 +20,42 @@ h2 {
   text-align:center;
 }
 
+.block {
+  background-color:#fff;
+  height:795px;
+  width:1490px;
+  float:left;
+}
+
+
 .author {
   text-align:left;
   font-size:25px;
   margin-top: -25px;
 }
 
+#nav-links ul {
+list-style: none;
+margin: 0;
+margin-left:47%;
+margin-top:-58px;
+}
+
+#nav-links li {
+  display:inline-block;
+  float:left;
+  padding:6px;
+}
+
+.nav-link {
+  color:#fff;
+  font-size:16px;
+  text-decoration: none;
+  font-family: arial;
+}
+
 .map {
-    height: 800px;
+    height: 698px;
     width: 100%;
     padding:3px;
 }
@@ -84,4 +112,18 @@ h2 {
 .legend i.icon {
   background-size: 18px;
   background-color: rgba(255, 255, 255, 1);
+}
+
+.UFO-pic {
+margin-left:550px;
+margin-top:10px;
+}
+
+.intro {
+  margin:auto;
+  font-family:arial;
+  font-size:14px;
+  margin-left:400px;
+  width:700px;
+  margin-top:50px;
 }
