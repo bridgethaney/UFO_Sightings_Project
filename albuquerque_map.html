@@ -31,13 +31,13 @@
       </div>
       <script type="text/javascript">
          // MAPS
-         var map_three = L.map('new_mexico_canvas', {
+         var map_two = L.map('new_mexico_canvas', {
              maxZoom: 13,
              minZoom: 11.5
          }).setView([35.13231810415276, -106.48632487011307], 12);
 
 
-                  var grayscale = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}@2x.png').addTo(map_three);
+                  var grayscale = L.tileLayer('http://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}@2x.png').addTo(map_two);
                   var streets = L.tileLayer('http://{s}.basemaps.cartocdn.com/rastertiles/voyager_nolabels/{z}/{x}/{y}@2x.png');
                   var satellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}@2x');
 
@@ -73,11 +73,11 @@
                   L.control.layers(nm_baseLayers, nm_overlays, {
                     collapsed: false,
                     position: 'topright'
-                  }).addTo(map_three);
+                  }).addTo(map_two);
 
-                  var legend_three = L.control({ position: "topright" });
+                  var legend_two = L.control({ position: "topright" });
 
-                  legend_three.onAdd = function(map) {
+                  legend_two.onAdd = function(map) {
                     var div = L.DomUtil.create("div", "legend");
                     div.innerHTML += "<h4>Shapes of UFOs Sighted</h4>";
                     div.innerHTML += '<i style="background: #d0a27c"></i><span>Love</span><br>';
@@ -105,7 +105,21 @@
                     return div;
                   };
 
-                  legend_three.addTo(map_three);
+                  legend_two.addTo(map_two);
+
+                  var blurb_two = L.control({ position: "bottomleft" });
+
+                  blurb_two.onAdd = function(map) {
+                    var div = L.DomUtil.create("div", "blurb");
+                    div.innerHTML += "<h4>About the Map</h4>";
+                    div.innerHTML += '<p>The map featured focuses on the city of Los Albuquerque, New Mexico. </br>As displayed, there are UFO sightings represented by different symbols based off UFO shape. Overall, it can be found that </p>';
+
+                    return div;
+                  };
+
+                  blurb_two.addTo(map_two);
+
+
 
                   /* Code by cmulders on Github. It removes white grid line bug
                    experienced within certain browsers. Bug was visible on the Neon Theme

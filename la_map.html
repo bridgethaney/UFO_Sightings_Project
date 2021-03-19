@@ -106,6 +106,19 @@
 
                 legend_three.addTo(map_three);
 
+                var blurb_three = L.control({ position: "bottomleft" });
+
+                blurb_three.onAdd = function(map) {
+                  var div = L.DomUtil.create("div", "blurb");
+                  div.innerHTML += "<h4>About the Map</h4>";
+                  div.innerHTML += '<p>The map featured focuses on the city of Los Angeles. </p>';
+
+                  return div;
+                };
+
+                blurb_three.addTo(map_three);
+
+
                 /* Code by cmulders on Github. It removes white grid line bug
                  experienced within certain browsers. Bug was visible on the Neon Theme
                  Map  */

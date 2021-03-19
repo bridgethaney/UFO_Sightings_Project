@@ -16,7 +16,7 @@ h2 {
   text-transform:uppercase;
   font-family:arial;
   margin-left: 10px;
-  margin-top:30px;
+  margin-top:20px;
   text-align:center;
 }
 
@@ -28,10 +28,11 @@ h2 {
 }
 
 
-.author {
+.data {
   text-align:left;
   font-size:25px;
-  margin-top: -25px;
+  margin-top: 20px;
+  margin-left:160px;
 }
 
 #nav-links ul {
@@ -55,7 +56,7 @@ margin-top:-58px;
 }
 
 .map {
-    height: 800px;
+    height: 720px;
     width: 100%;
     padding:3px;
 }
@@ -71,12 +72,12 @@ margin-top:-58px;
 }
 
 #nm {
-  margin-top:40px;
+  margin-top:20px;
 }
 
 
 #la {
-  margin-top:40px;
+  margin-top:20px;
 }
 
 .legend {
@@ -132,4 +133,34 @@ margin-left:30px;
   margin-left:500px;
   width:900px;
   margin-top:-750px;
+}
+
+a:hover {
+  color:#85C1E9
+}
+
+#dataset {
+  margin-left:99px;
+}
+
+.blurb {
+  padding: 6px 8px;
+  font: 14px Arial, Helvetica, sans-serif;
+  background: white;
+  background: rgba(255, 255, 255);
+  /*box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);*/
+  /*border-radius: 5px;*/
+  color: #555;
+  width:300px;
+}
+.blurb h4 {
+  text-align: center;
+  font-size: 16px;
+  margin: 2px 12px 8px;
+  color: #000;
+}
+
+.blurb span {
+  position: relative;
+  bottom: 3px;
 }
