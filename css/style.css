@@ -135,13 +135,19 @@ margin-left:30px;
 margin-top:50px;
 }
 
+.about {
+  color:#000;
+  font-size:25px;
+  margin-left:840px;
+  margin-top:-760px;
+}
+
 .intro {
   margin:auto;
   font-family:arial;
-  font-size:14px;
+  font-size:13px;
   margin-left:500px;
   width:905px;
-  margin-top:-775px;
 }
 
 a:hover {
