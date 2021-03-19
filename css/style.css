@@ -16,13 +16,13 @@ h2 {
   text-transform:uppercase;
   font-family:arial;
   margin-left: 10px;
-  margin-top:40px;
+  margin-top:30px;
   text-align:center;
 }
 
 .block {
   background-color:#fff;
-  height:795px;
+  height:798px;
   width:1490px;
   float:left;
 }
@@ -55,7 +55,7 @@ margin-top:-58px;
 }
 
 .map {
-    height: 698px;
+    height: 800px;
     width: 100%;
     padding:3px;
 }
@@ -114,16 +114,22 @@ margin-top:-58px;
   background-color: rgba(255, 255, 255, 1);
 }
 
+
+.info {
+  background-color:#000;
+  height:797px;
+  width:480px;
+}
+
 .UFO-pic {
-margin-left:550px;
-margin-top:10px;
+margin-left:30px;
 }
 
 .intro {
   margin:auto;
   font-family:arial;
   font-size:14px;
-  margin-left:400px;
-  width:700px;
-  margin-top:50px;
+  margin-left:500px;
+  width:900px;
+  margin-top:-750px;
 }
