@@ -91,7 +91,7 @@ In observing the data in all four locations, it seems that New York City contain
 **FIGURE 5: Static image of the interactive leaflet map featuring Area 51 UFO sightings**
 
 #### **Legend: Shapes of UFOs**
-   - Each UFO shape is represented by a color symbol on the map
+   - Each UFO shape is represented by a colored shape symbol on the map
    - There are 21 shapes featured in the data, but only the top three most seen shape types are chosen to be represented in the map
    - The three shapes that are represented in the visualizations are circle, light, and triangle
     
