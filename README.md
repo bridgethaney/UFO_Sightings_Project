@@ -106,6 +106,8 @@ Mcginnis, B. (n.d.). Most common words used to describe UFOs from reported sight
 
 Declassified Documents: UFOs. (n.d.). Retrieved March 16, 2021, from https://www.nsa.gov/news-features/declassified-documents/ufo/
 
+Hard Factor 7/21/20: Interview with Ric Grenell Former Director of National Intelligence. (2020, July 21). Retrieved March 19, 2021, from https://www.youtube.com/watch?v=ElEW16zOgwM
+
 Saad, L. (2021, January 14). Americans Skeptical of UFOs, but Say Government Knows More. Retrieved from https://news.gallup.com/poll/266441/americans-skeptical-ufos-say-government-knows.aspx
 
 Pereira, I. (2020, January 8). UFO sightings in North America jumped to nearly 6,000 in 2019. Retrieved March 16, 2021, from https://abcnews.go.com/US/ufo-sightings-north-america-jumped-6000-2019/story?id=68145474
