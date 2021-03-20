@@ -61,6 +61,7 @@ In observing the data in all four locations, it seems that New York City contain
 - **Resources:**
     - [UFO Sightings Dataset](https://data.world/timothyrenner/ufo-sightings) by Tim Renner
     - [Three Maps on Leaflet](https://stackoverflow.com/questions/52597399/displaying-3-leaflet-maps-on-same-page) as explained by Marat Badykov
+    - [White Grid Line Bug/Tile Space Removal Code](https://gist.github.com/cmulders/acbbe8a8ff170e34c37b) by cmulders
 
 
 ### GUIDE
