@@ -136,8 +136,8 @@ margin-top:50px;
 }
 
 .about {
-  color:#fff;
-  font-size:25px;
+  color:#85C1E9;
+  font-size:22px;
   margin-left:840px;
   margin-top:-760px;
 }
@@ -145,10 +145,11 @@ margin-top:50px;
 .intro {
   margin:auto;
   font-family:arial;
-  font-size:13px;
+  font-size:14px;
   margin-left:500px;
-  width:905px;
+  width:950px;
   color:#fff;
+  margin-top:-15px;
 }
 
 a:hover {
