@@ -16,25 +16,28 @@
 
 ### INTRODUCTION
 
-Extraterrestrial life has been long debated and examined through scientific research, eyewitness testimony, and pop culture. One of the most prominent ways this exploration of possible alien contact has occured is through sightings of unexplainable phenomenon detailed as unidentified flying objects. According to the National UFO Reporting Center, there have been over 5,971 sightings of UFOs in 2019 in North America (Pereira, 2020). With the noticeable prevalence of UFO sightings within North America and in particular, the United States, it is worth an investigating the frequency of UFO sightings and where the largest amount of sightings occur.
+Extraterrestrial life has been long debated and examined through scientific research, eyewitness testimony, and pop culture. One of the most prominent ways this exploration of possible alien contact has occured is through sightings of unexplainable phenomenon detailed as unidentified flying objects. According to the National UFO Reporting Center, there have been over 5,971 sightings of UFOs in 2019 in North America (Pereira, 2020). With the noticeable prevalence of UFO sightings within North America and in particular, the United States, it is worth investigating the frequency of UFO sightings and where the largest amount of sightings occur.
 
-To designate the prominance and necessary research of UFOs, it is worth noting that government entities, like the United States Government, have kept classified records on supposed UFO sightings and alien life. The previous acting Director of National Intelligence, Richard Grenell, has stated that there have been instances, in fact, of UFOs, saying "definitely UFOs exist. But remember the definition, it is an unidentified flying object" (Grenell, 2021). Whether the UFOs housed alien life, it is unknown. However, government records have recorded and defined the appearance of UFOs and treats these sightings as important.
+To designate the prominance and necessary research of UFOs, it is important to note that government entities, like the United States Government, have kept classified records on supposed UFO sightings and alien life. The previous acting Director of National Intelligence, Richard Grenell, has stated that there have been instances, in fact, of UFOs, saying "definitely UFOs exist. But remember the definition, it is an unidentified flying object" (Grenell, 2021). Whether the UFOs housed alien life, it is unknown. However, government records have recorded and defined the appearance of UFOs and treats these sightings as important.
 
 This involvement of the government has led to deeper rooted effects that impact the mindset of the public surrounding UFO sightings. It is shown that the "68% today who believe the government is withholding information about UFOs is comparable to the 71% found in 1996" (Saad, 2021). This means that due to possible UFO sightings, individuals may believe that the government is not being transparent or hiding information about UFOs or possible alien life, signifying a growing distrust with the government. In 1980 especially, the National Security Agency was involved in a civil action case entitled "Citizens Against Unidentified Flying Objects Secrecy v. National Security Agency," in which the public demanded that the government be more transparent and upfront about UFOs.
 
-Overall, the three maps presented within this project are meant to start a conversation around UFOs and the grander idea of extraterrestrial life. In capturing data around the United States and specifically honing in on Los Angeles, Albuquerque, and New York City, there can be ultimately be answers to the aforementioned questions involving prevalence and what locations have the most activity.
+Overall, the four maps presented within this project are meant to start conversations around UFOs and the grander idea of extraterrestrial life. In capturing data around the United States and specifically honing in on Los Angeles, Albuquerque, Area 51, and New York City, there can be answers to the aforementioned questions involving prevalence and what locations have the most activity.
 
 ### PROJECT GOAL
 
-This featured visualization seeks to find any patterns within sightings of three different locations: the Greater Los Angeles Area, Albuquerque, New Mexico, and the Greater New York City Area. There is a common conception that the famous crash site of a supposed UFO located within Roswell, New Mexico, is the hub for alien activity. This makes Albuquerque, the biggest city closest to Roswell, the perfect location to test whether areas surrounding Roswell have the highest amount of sightings, or if other locations, like Los Angeles do. Through focusing on several different locations, there can ultimately be a wider look into where UFO sightings are most prevalent. It is interesting to see just how many UFO sightings are reported, the description of each UFO sighting, and the kinds of shapes that UFOs can take form through. 
-
-* Area 51 in Nevada will also be added in.
+These featured visualizations seek to find any patterns within sightings of four different locations: the Greater New York City Area, the Greater Los Angeles Area, Albuquerque, New Mexico, and Area 51, Nevada. There is a common conception that the famous crash site of a supposed UFO located within Roswell, New Mexico, is the hub for alien activity. This makes Albuquerque, the biggest city closest to Roswell, the perfect location to test whether areas surrounding Roswell have the highest amount of sightings, or if other locations, like Los Angeles, do. Area 51 is also known through conspiracies as a potential hot spot for alien research due to the secrecy surrounding the Area 51 military base. Through focusing on several different locations, there can ultimately be a wider look into where UFO sightings are most prevalent. It is interesting to see just how many UFO sightings are reported, the kinds of UFO shapes there are, and if the areas that are thought to be tied in with extraterrestrial life has more sightings or if the other comparative cities do.
 
 **Audience:** Ufologists are the prime target for this research. A Ufologist is an individual that specifically studies and identifies UFOs. Government entities can also use this map to figure out which locations to focus on when trying to conduct research or create files. Finally, the general public interested in UFOs can use this data to see where UFOs are located and what kind of UFOs are sighted.
 
+### TOP 3 UFO SHAPE TYPES
+
+There are 3 types of UFOs that are being represented within the maps: light, circle, and triangle. According to an article written by Brit McGinnis entitled "Most Common Words Used to Describe UFOs from Reported Sightings," as reported by the National UFO Reporting Center, the top three UFOs are the three listed and represented within the maps.
+
 ### ANALYSIS
 
-In observing the data in all three locations, it seems that New York City contains the most sightings. This could be due in part to the expansiveness of the city and situational factors, like heavy airport traffic. It seems in bigger cities, there are in general, more sightings. 
+In observing the data in all four locations, it seems that New York City contains the most sightings. This could be due in part to the expansiveness of the city and situational factors, like heavy airport traffic. It seems in bigger cities, there are in general, more sightings. This makes sense because there would be a larger population to see possible UFOs. For reference, Albuquerque has a population size of over 550,000 as of 2019, while New York City has a population of 8.42 million as of 2019. Even though Albuquerque is next to Roswell, which is known for its famous UFO crash site, it does not have the most sightings. Area 51 has no sightings, but does have a couple nearby. Because of the secrecy around the operations of the Area 51 base, it is theorized by conspiracy theorists that there is more to the base in terms of extraterrestrial life than the government is letting on. Therefore, there are no sightings, or the sightings are classified.
+
 
 ### TECHNICAL OVERVIEW
 
@@ -78,10 +81,17 @@ In observing the data in all three locations, it seems that New York City contai
 
 **FIGURE 4: Static image of the interactive leaflet map featuring Los Angeles UFO sightings**
 
+#### **Area 51 Map**
+
+<img src="img/los_angeles_sightings.png">
+
+**FIGURE 4: Static image of the interactive leaflet map featuring Los Angeles UFO sightings**
+
 #### **Legend: Shapes of UFOs**
    - Each UFO shape is represented by a color symbol on the map
    - There are 21 shapes featured in the data
    - The types of shapes are: Love, Changing, Chevron, Circle, Cone, Cross, Cylinder, Diamond, Disk, Egg, Fireball, Flash, Formation, Light, Other, Oval, Rectangle, Sphere, Teardrop, and Triangle
+   - The three shapes that are represented in the visualizations are circle, light, and triangle.
     
 <img src="img/ufo_shapes_legend.png">
 
