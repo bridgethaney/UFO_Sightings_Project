@@ -45,7 +45,7 @@ In observing the data in all four locations, it seems that New York City contain
 - **UFO Sightings Map**
     - Layers
         - Basemap: Customized Monochrome Basemap made on MapBox
-        - Thematic layer: UFO Sightings Data with colors of symbols changing based on shape type of UFO
+        - Thematic layer: UFO Sightings Data with shapes of symbols changing based on shape type of UFO
         - Basemap w/ Thematic Layer: Combines both the basemap and UFO data for ease of access
     - Libraries / Packages
         - Leaflet: Creates the maps
