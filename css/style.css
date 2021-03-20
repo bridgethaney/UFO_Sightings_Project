@@ -136,7 +136,7 @@ margin-top:50px;
 }
 
 .about {
-  color:#000;
+  color:#fff;
   font-size:25px;
   margin-left:840px;
   margin-top:-760px;
@@ -148,6 +148,7 @@ margin-top:50px;
   font-size:13px;
   margin-left:500px;
   width:905px;
+  color:#fff;
 }
 
 a:hover {
@@ -181,4 +182,8 @@ a:hover {
 .blurb span {
   bottom: 3px;
   position:relative;
+}
+
+.headers {
+  color:#85C1E9;
 }
