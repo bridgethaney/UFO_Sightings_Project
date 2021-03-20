@@ -28,7 +28,7 @@ Overall, the four maps presented within this project are meant to start conversa
 
 These featured visualizations seek to find any patterns within sightings of four different locations: the Greater New York City Area, the Greater Los Angeles Area, Albuquerque, New Mexico, and Area 51, Nevada. There is a common conception that the famous crash site of a supposed UFO located within Roswell, New Mexico, is the hub for alien activity. This makes Albuquerque, the biggest city closest to Roswell, the perfect location to test whether areas surrounding Roswell have the highest amount of sightings, or if other locations, like Los Angeles, do. Area 51 is also known through conspiracies as a potential hot spot for alien research due to the secrecy surrounding the Area 51 military base. Through focusing on several different locations, there can ultimately be a wider look into where UFO sightings are most prevalent. It is interesting to see just how many UFO sightings are reported, the kinds of UFO shapes there are, and if the areas that are thought to be tied in with extraterrestrial life have more sightings or if the other comparative cities do.
 
-**Audience:** There are several different types of audiences that would benefit from this information. Ufologists are the prime target for this research. A Ufologist is an individual that specifically studies and identifies UFOs. Government entities can also use this map to figure out which locations to focus on when trying to conduct research or create reports on sightings. Finally, the general public interested in UFOs can use this data to see where UFOs are located and what kind of UFOs are sighted.
+**Audience:** There are several different types of audiences that would benefit from this information. Ufologists can be seen as the prime targets for this research. A Ufologist is an individual that specifically studies and identifies UFOs. Government entities can also use this map to figure out which locations to focus on when trying to conduct research or create reports on sightings. Finally, the general public interested in UFOs can use this data to see where UFOs are located and what kind of UFOs are sighted.
 
 ### TOP 3 UFO SHAPE TYPES
 
@@ -56,7 +56,7 @@ In observing the data in all four locations, it seems that New York City contain
 - **Methodology and Steps**
     - First, the basemap was created within Map Box. The base colors were darker grays, while location labels and streets were given light blues, greens, yellows, and oranges depending on zoom.
     - The thematic layer was then acquired. The UFO dataset by Tim Renner, which is found on the website data.world, contains information on UFO sightings. On the map, the data points are represented by shapes that are coordinated to the shape of the UFO sighted.
-    - The basemap, thematic layer, and both the basemap and thematic layer together are converted to 256 pixel tiles through QMetaTiles on QGIS. This allows for visually-appealing design and more quick display of information.
+    - The basemap, thematic layer, and both the basemap and thematic layer together are converted to 256 pixel tiles through QMetaTiles on QGIS. This allows for visually-appealing design and more quick display of information, since it is narrowed down to only a certain geographical area.
         
 - **Resources:**
     - [UFO Sightings Dataset](https://data.world/timothyrenner/ufo-sightings) by Tim Renner
