@@ -83,9 +83,9 @@ In observing the data in all four locations, it seems that New York City contain
 
 #### **Area 51 Map**
 
-<img src="img/los_angeles_sightings.png">
+<img src="img/a51_sightings.png">
 
-**FIGURE 4: Static image of the interactive leaflet map featuring Los Angeles UFO sightings**
+**FIGURE 5: Static image of the interactive leaflet map featuring Area 51 UFO sightings**
 
 #### **Legend: Shapes of UFOs**
    - Each UFO shape is represented by a color symbol on the map
