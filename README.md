@@ -58,9 +58,10 @@ In observing the data in all four locations, it seems that New York City contain
     - The thematic layer was then acquired. The UFO dataset by Tim Renner, which is found on the website data.world, contains information on UFO sightings. On the map, the data points are represented by shapes that are coordinated to the shape of the UFO sighted.
     - The basemap, thematic layer, and both the basemap and thematic layer together are converted to 256 pixel tiles through QMetaTiles on QGIS. This allows for visually-appealing design and more quick display of information, since it is narrowed down to only a certain geographical area.
         
-- **Resources:**
+- **Data/Code Resources:**
     - [UFO Sightings Dataset](https://data.world/timothyrenner/ufo-sightings) by Tim Renner
     - [Three Maps on Leaflet](https://stackoverflow.com/questions/52597399/displaying-3-leaflet-maps-on-same-page) as explained by Marat Badykov
+    - [White Grid Line Bug/Tile Space Removal Code](https://gist.github.com/cmulders/acbbe8a8ff170e34c37b) by cmulders
 
 
 ### GUIDE
