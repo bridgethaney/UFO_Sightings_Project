@@ -1,4 +1,4 @@
-# UFO Sightings Visualization
+# UFO Sightings in the United States
 
 <img src="img/full_project.png">
 
@@ -53,7 +53,7 @@ In observing the data in all four locations, it seems that New York City contain
 
 - **Methodology and Steps**
     - First, the basemap was created within Map Box. The base colors were darker grays, while location labels and streets were given light blues, greens, yellows, and oranges depending on zoom.
-    - The thematic layer was then acquired. The UFO dataset by Tim Renner, which is found on the website data.world, contains information on UFO sightings. On the map, the data points are represented by circles that are color coordinated to the shape of the UFO sighted.
+    - The thematic layer was then acquired. The UFO dataset by Tim Renner, which is found on the website data.world, contains information on UFO sightings. On the map, the data points are represented by shapes that are coordinated to the shape of the UFO sighted.
     - The basemap, thematic layer, and both the basemap and thematic layer together are converted to 256 pixel tiles through QMetaTiles on QGIS. This allows for visually-appealing design and more quick display of information.
         
 - **Resources:**
@@ -89,15 +89,14 @@ In observing the data in all four locations, it seems that New York City contain
 
 #### **Legend: Shapes of UFOs**
    - Each UFO shape is represented by a color symbol on the map
-   - There are 21 shapes featured in the data
-   - The types of shapes are: Love, Changing, Chevron, Circle, Cone, Cross, Cylinder, Diamond, Disk, Egg, Fireball, Flash, Formation, Light, Other, Oval, Rectangle, Sphere, Teardrop, and Triangle
-   - The three shapes that are represented in the visualizations are circle, light, and triangle.
+   - There are 21 shapes featured in the data, but only the top three most seen shape types are chosen to be represented in the map
+   - The three shapes that are represented in the visualizations are circle, light, and triangle
     
 <img src="img/ufo_shapes_legend.png">
 
 ## Acknowledgements
 
-Some code snippets are taken from the UW GEOG 458 Lab 4 assignment by Bo Zhao. I am also using some formatting code from Marat Badykov on Stack Overflow to create the three maps.
+Some code snippets are taken from the UW GEOG 458 Lab 4 assignment by Bo Zhao. I am also using some formatting code from Marat Badykov on Stack Overflow to create the three maps. Finally, I am using code from cmulders on Github that removes lines between tiles.
 
 ## References
 
